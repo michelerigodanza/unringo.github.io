@@ -1,0 +1,21 @@
+h3 {	color: green;
+	background-color:yellow; 
+}
+
+div.elenchi {
+	background-color:black;
+	color:white;
+	margin: 20px 0 20px 0;
+	padding: 20px;
+}
+
+/* stile tabella */
+table, th, td {				/* si applica alla tabella ai th e ai td */
+	border: 2px solid black;
+	text-align:center;
+}
+
+table{					/* si applica solo alla tabella */
+	border-spacing: 5px;
+}
+
